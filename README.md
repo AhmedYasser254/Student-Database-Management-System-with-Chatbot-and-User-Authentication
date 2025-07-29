@@ -1,5 +1,4 @@
 # Student-Database-Management-System-with-Chatbot-and-User-Authentication
-# Student Database Chatbot
 
 ---
 
@@ -32,8 +31,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-database-chatbot.git
-cd student-database-chatbot
+git clone https://github.com/AhmedYasser254/Student-Database-Management-System-with-Chatbot-and-User-Authentication.git
 ```
 
 ### 2. Create & Activate a Virtual Environment
